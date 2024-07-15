@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Blog" ADD COLUMN     "date" TEXT NOT NULL DEFAULT 'May 27, 2024';
